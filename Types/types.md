@@ -1,0 +1,9 @@
+****val a = 1                                   // valeur est  1        type est     int       
+val aa = 1L                                 // valeur est    1      type est int       
+val aaa = a * 25 + aa * 100                 // valeur est  125        type est        int
+val b = 1.0                                 // valeur est 1.0         type est        float
+val c = "1"                                 // valeur est   "1"       type est    string    
+val d = true                                // valeur est   true       type est        bool
+val laChose = c + b                         // valeur est    "11.0"      type est        string
+val k = listOf("1", "2", "3")               // valeur est   "1", "2", "3"    type est   list<string>     
+val l = mutableListOf(true, false, true)    // valeur est  true false true   type est  arraylist
